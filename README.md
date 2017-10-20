@@ -3,8 +3,8 @@
 # Schematics and Code for Solar Powered Kitchen Lights
 
 # Hardware
-
-# 12V 100W panel
+<br>
+12V 100W panel
 # 25aH battery
 # Epever Tracer Charge Controller
 # Arduino
